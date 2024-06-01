@@ -13,24 +13,8 @@ public class GithubPractice {
 		Thread.sleep(500);
 		driver.manage().window().maximize();
 		driver.get(url);
-		Thread.sleep(500);
-		
-		 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 		Thread.sleep(2000);
 		driver.quit();
-}
+	}
 }
